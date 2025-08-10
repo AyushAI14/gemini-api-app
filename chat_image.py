@@ -43,3 +43,5 @@ if submit:
     st.subheader('Gemini Response')
     st.write(response.text)
 
+    
+
